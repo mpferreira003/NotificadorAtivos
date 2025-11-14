@@ -1,0 +1,11 @@
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+project.lock.json
+project.fragment.lock.json
+.vs/
+.idea/
+.DS_Store
+Thumbs.db
