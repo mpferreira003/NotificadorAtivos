@@ -1,0 +1,16 @@
+{
+    "destiny":[
+        "email@gmail.br",
+        "bomdia@gmail.com"
+    ],
+    "upMessage":{
+        "subject":"Ativo acima do preço",
+        "body":"Esta é uma notificação automática de que o ativo está acima do preço. Sugerimos que você venda o ativo."
+    },
+    "downMessage":{
+        "subject":"Ativo abaixo do preço",
+        "body":"Esta é uma notificação automática de que o ativo está abaixo do preço. Sugerimos que você compre o ativo."
+    },
+    "ResendEmailTime":100,   
+    "VerificationDelay":1
+}

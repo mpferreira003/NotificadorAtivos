@@ -9,3 +9,4 @@ project.fragment.lock.json
 .idea/
 .DS_Store
 Thumbs.db
+**/.env
